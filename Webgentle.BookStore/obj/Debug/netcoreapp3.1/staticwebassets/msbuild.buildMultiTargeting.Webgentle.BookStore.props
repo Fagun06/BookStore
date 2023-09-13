@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Webgentle.BookStore.props" />
+</Project>
